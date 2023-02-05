@@ -1,6 +1,6 @@
 # Portfolio
 
-![Profile Picture](your_profile_picture.jpg)
+![Profile Picture](profile_picture.jpg)
 
 ## Introduction
 
