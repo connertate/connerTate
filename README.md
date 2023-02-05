@@ -1,9 +1,5 @@
-# Portfolio
-
-![Profile Picture](profile_picture.jpg)
-
 ## Introduction
-
+<img src="profile_picture.png" width="100" height="100">
 👋 Hi, I'm Conner, an iOS developer with a passion for creating beautiful apps. 
 
 ## Apps Developed
