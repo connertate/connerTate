@@ -1,10 +1,10 @@
-# iOS Development Portfolio
+# Portfolio
 
 ![Profile Picture](your_profile_picture.jpg)
 
 ## Introduction
 
-Hi, I'm [Your Name], a highly motivated and experienced iOS developer with a passion for creating innovative and intuitive mobile apps. With [Number of Years] years of experience in the industry, I have a proven track record of delivering high-quality iOS apps that meet the needs of users and business goals.
+👋 Hi, I'm Conner, an iOS developer with a passion for creating beautiful apps. 
 
 ## Apps Developed
 
