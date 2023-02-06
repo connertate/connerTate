@@ -1,16 +1,18 @@
-## Introduction
-
 <p align="center">
-  <img src="profile_picture.png" width="100" height="100">
+  <img src="profile_picture.png" width="200" height="200">
 </p>
+<h1 align="center">
+Conner Tate
+</h1>
+
 <p align="center">
 👋 Hi, I'm Conner, an iOS developer with a passion for designing apps. 
 </p>
 
 ## Experience Developed
-📚 Graduated with a Bachelors in Computer Science from The University of North Carolina at Chapel Hill - 2020
+📚 Bachelors in Computer Science from The University of North Carolina at Chapel Hill - 2020
 
-🎬 Worked on set in film industry for TV shows in Charleston, SC & Wilmington, NC.
+🎬 Working on set in film industry for TV shows in Charleston, SC & Wilmington, NC.
 
 👨🏻‍💻 I make iOS apps in my free time and want to pursue a career in mobile development
 
