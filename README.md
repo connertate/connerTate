@@ -5,10 +5,10 @@
 Conner Tate
 </h1>
 <p align="center">
-👋 Hi, I'm Conner, an iOS developer with a passion for designing apps. 
+👋 Hi, I'm Conner, an iOS Developer with a passion for designing and building apps. 
 </p>
 
-## Experience Developed
+# Experience
 📚 Bachelors in Computer Science from The University of North Carolina at Chapel Hill - 2020
 
 🎬 Working on set in film industry for TV shows in Charleston, SC & Wilmington, NC.
@@ -19,8 +19,12 @@ Conner Tate
 
 
 # Apps Developed
+I design, develop, and release all apps as a solo developer.
 
-## Daily Cost Calculator 
+
+<h2 align="center">
+Daily Cost Calculator 
+</h2>
 
 ![App 2 Screenshot](app_2_screenshot.png)
 
@@ -39,7 +43,7 @@ Conner Tate
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
-    <img src="appStore.png" alt="Image" width="250" height="100" style="border-radius:20px;">
+    <img src="appStore.png" alt="Image" width="265" height="100" style="border-radius:20px;">
   </a>
 </p>
 
