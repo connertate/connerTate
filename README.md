@@ -44,8 +44,11 @@ I have extensive experience with the following technologies:
 # Contact Information
   
 📫 Email: connertate8@gmail.com
+
 🖇️ LinkedIn: https://www.linkedin.com/in/conner-t-193b1a131/
+
 🐦 Twitter: https://twitter.com/connertate8
+
 ✅ LeetCode: https://leetcode.com/connertate8/
 
 Thank you for taking the time to view my portfolio!
