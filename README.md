@@ -5,7 +5,7 @@
 Conner Tate
 </h1>
 <p align="center">
-👋 Hi, I'm Conner, an iOS Developer with a passion for designing and building apps. 
+👋 Hey! I'm Conner, an iOS Developer with a passion for designing and building apps. 
 </p>
 
 # Experience
