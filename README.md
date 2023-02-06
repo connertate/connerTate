@@ -4,7 +4,6 @@
 <h1 align="center">
 Conner Tate
 </h1>
-
 <p align="center">
 👋 Hi, I'm Conner, an iOS developer with a passion for designing apps. 
 </p>
@@ -21,7 +20,7 @@ Conner Tate
 
 # Apps Developed
 
-## [icon] Daily Cost Calculator 
+## Daily Cost Calculator 
 
 ![App 2 Screenshot](app_2_screenshot.png)
 
@@ -32,6 +31,11 @@ Conner Tate
 ### Tech used
 
 ### Availibilty
+📲 Availible on App Store for iOS: https://apps.apple.com/us/app/daily-cost-calculator/id6443849658
+
+
+[![Image](profile_picture.png)](https://www.google.com)
+
 
 # Technical Skills
 
@@ -50,5 +54,3 @@ I have extensive experience with the following technologies:
 🐦 Twitter: https://twitter.com/connertate8
 
 ✅ LeetCode: https://leetcode.com/connertate8/
-
-Thank you for taking the time to view my portfolio!
