@@ -1,11 +1,26 @@
 ## Introduction
-<img src="profile_picture.png" width="100" height="100">
-👋 Hi, I'm Conner, an iOS developer with a passion for creating beautiful apps. 
+
+<p align="center">
+  <img src="profile_picture.png" width="100" height="100">
+</p>
+<p align="center">
+👋 Hi, I'm Conner, an iOS developer with a passion for designing apps. 
+</p>
+
+## Experience Developed
+📚 Graduated with a Backelors in Computer Science from The University of North Carolina at Chapel Hill - 2020
+
+🎬 Worked on set in film industry for TV shows in Charleston, SC & Wilmington, NC.
+
+👨🏻‍💻 I make iOS apps in my free time and want to pursue a career in mobile development
+
+📱 I have released 9 apps to the Apple App Store with combined downloads of 7k+
+
 
 ## Apps Developed
 
 ### App 1
-
+<p align="center">
 ![App 1 Screenshot](app_1_screenshot.png)
 
 [App 1 Name] is a [App 1 Description]. With features such as [App 1 Feature 1], [App 1 Feature 2], and [App 1 Feature 3], this app has received high ratings from users and has been downloaded over [Number of Downloads].
