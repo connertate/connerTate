@@ -25,16 +25,23 @@ Conner Tate
 ![App 2 Screenshot](app_2_screenshot.png)
 
 ### Problem
+- I wanted to be able to track how my largest financial purchases average down to a daily cost as time passes.
 
 ### Summary / features
+- Add custom expenses with colors and emojis
+- Automatically track and calculate time passed and average cost
+- Edit past expenses to change values
 
-### Tech used
+### Technologies Used
+- Swift
+- SwiftUI
+- Core Data
 
-### Availibilty
-📲 Availible on App Store for iOS: https://apps.apple.com/us/app/daily-cost-calculator/id6443849658
-
-
-[![Image](profile_picture.png)](https://www.google.com)
+<p align="center">
+  <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
+    <img src="appStore.png" alt="Image" width="250" height="100" style="border-radius:20px;">
+  </a>
+</p>
 
 
 # Technical Skills
