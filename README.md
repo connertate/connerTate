@@ -29,10 +29,6 @@ Apps Developed
 ## Daily Cost Calculator 
 
 <p align="center">
-  <img src="dailyCostCalculatorScreenshots.png" style="max-width: 100%; height: auto;">
-</p>
-
-<p align="center">
   <img src="dailyCostCalculatorScreenshotsLight.png" style="max-width: 100%; height: auto;">
 </p>
 
