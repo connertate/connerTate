@@ -29,14 +29,13 @@ Apps Developed
 ## Daily Cost Calculator 
 
 <p align="center">
+  <img src="dailyCostCalculatorScreenshots.png" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
   <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
     <img src="appStore.png" alt="Image" width="270" height="100" style="border-radius:20px;">
   </a>
-</p>
-
-
-<p align="center">
-  <img src="dailyCostCalculatorScreenshots.png" width="800" height="400">
 </p>
 
 ### Problem
