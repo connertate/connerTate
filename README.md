@@ -37,13 +37,7 @@ Apps Developed
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
-    <img src="appStore.png" alt="Image" width="270" height="100" style="border-radius:20px;">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
-    <img src="appStoreLink.png" alt="Image" width="270" height="100" style="border-radius:20px;">
+    <img src="appStoreLink.png" alt="Image" width="210" height="70" style="border-radius:20px;">
   </a>
 </p>
 
@@ -66,7 +60,7 @@ Apps Developed
 
 <p align="center">
   <a href="https://github.com/connertate/Game-of-Thrones-Houses">
-    <img src="appStore.png" alt="Image" width="270" height="100" style="border-radius:20px;">
+    <img src="appStoreLink.png" alt="Image" width="210" height="70" style="border-radius:20px;">
   </a>
 </p>
 
