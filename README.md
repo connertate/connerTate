@@ -26,8 +26,8 @@ Experience
 Apps Developed
 </h1>
 
-## Daily Cost Calculator 
 
+## Daily Cost Calculator 
 
 <p align="center">
   <img src="gradientTest.png" style="max-width: 100%; height: auto;">
@@ -39,9 +39,6 @@ Apps Developed
   </a>
 </p>
 
-### Problem
-- I wanted to be able to track how my largest financial purchases average down to a daily cost as time passes.
-
 ### Summary / features
 - Add custom expenses to track and calculate time passed and average cost
 - Edit past expenses to change values
@@ -49,8 +46,34 @@ Apps Developed
 ### Technologies Used
 - Swift, SwiftUI, Core Data, Google Admob
 
-# Technical Skills
 
+***
+
+
+## Game of Thrones House Viewer 
+
+<p align="center">
+  <img src="gotGradient.png" style="max-width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
+    <img src="appStore.png" alt="Image" width="270" height="100" style="border-radius:20px;">
+  </a>
+</p>
+
+### Summary / features
+- Add custom expenses to track and calculate time passed and average cost
+- Edit past expenses to change values
+
+### Technologies Used
+- Swift, SwiftUI, URLSession, JSON Decoder, Async / Await
+
+
+***
+
+
+# Technical Skills
 I have extensive experience with the following technologies:
 - Swift
 - Xcode
