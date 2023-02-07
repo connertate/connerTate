@@ -2,6 +2,8 @@
   <img src="profile_picture.png" width="200" height="200">
 </p>
 
+make this better with me saying the intro in imessage text bubbles, make the screen a mac app view with close and max buttons, corner radius
+
 <h1 align="center">
 Conner Tate
 </h1>
