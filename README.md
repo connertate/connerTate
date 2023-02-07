@@ -59,7 +59,7 @@ Apps Developed
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
+  <a href="https://github.com/connertate/Game-of-Thrones-Houses">
     <img src="appStore.png" alt="Image" width="270" height="100" style="border-radius:20px;">
   </a>
 </p>
