@@ -41,6 +41,12 @@ Apps Developed
   </a>
 </p>
 
+<p align="center">
+  <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
+    <img src="appStoreLink.png" alt="Image" width="270" height="100" style="border-radius:20px;">
+  </a>
+</p>
+
 ### Summary / features
 - Add custom expenses to track and calculate time passed and average cost
 - Edit past expenses to change values
