@@ -2,10 +2,6 @@
   <img src="profile_picture.png" width="200" height="200">
 </p>
 
-<p align="center">
-  <img src="header.png" width="200" height="200">
-</p>
-
 <h1 align="center">
 Conner Tate
 </h1>
