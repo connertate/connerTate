@@ -30,7 +30,7 @@ Apps Developed
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
-    <img src="appStore.png" alt="Image" width="265" height="100" style="border-radius:20px;">
+    <img src="appStore.png" alt="Image" width="270" height="100" style="border-radius:20px;">
   </a>
 </p>
 
