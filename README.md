@@ -1,15 +1,15 @@
+
+
 <p align="center">
-  <img src="profile_picture.png" width="200" height="200">
+  <img src="testHeader.png" style="max-width: 100%; height: auto;">
 </p>
 
-make this better with me saying the intro in imessage text bubbles, make the screen a mac app view with close and max buttons, corner radius
+
+
 
 <h1 align="center">
 Conner Tate
 </h1>
-<p align="center">
-👋 Hey! I'm Conner, an iOS Developer with a passion for designing and building apps. 
-</p>
 
 <h1 align="center">
 Experience
