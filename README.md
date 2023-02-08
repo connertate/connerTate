@@ -1,15 +1,10 @@
-
+<h1 align="center">
+  Conner Tate
+</h1>
 
 <p align="center">
   <img src="headerImage.png" style="max-width: 100%; height: auto;">
 </p>
-
-
-
-
-<h1 align="center">
-Conner Tate
-</h1>
 
 <h1 align="center">
 Experience
