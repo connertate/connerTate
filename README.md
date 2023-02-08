@@ -32,7 +32,7 @@ Apps Developed
 ## Daily Cost Calculator 
 
 <p align="center">
-  <img src="gradientTest.png" style="max-width: 100%; height: auto;">
+  <img src="dailyCostTransparent.png" style="max-width: 100%; height: auto;">
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Apps Developed
 ## Game of Thrones House Viewer 
 
 <p align="center">
-  <img src="gotGradient.png" style="max-width: 100%; height: auto;">
+  <img src="transparentGOT.png" style="max-width: 100%; height: auto;">
 </p>
 
 <p align="center">
