@@ -26,7 +26,7 @@ Apps Developed
 ## Snaptrack - Habit Tracker 
 
 <p align="center">
-  <img src="transparentGOT.png" style="max-width: 100%; height: auto;">
+  <img src="snaptrackTransparent.png" style="max-width: 100%; height: auto;">
 </p>
 
 ### Features
