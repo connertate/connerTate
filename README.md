@@ -23,25 +23,25 @@ Experience
 Apps Developed
 </h1>
 
-
-## Daily Cost Calculator 
+## Snaptrack - Habit Tracker 
 
 <p align="center">
-  <img src="dailyCostTransparent.png" style="max-width: 100%; height: auto;">
+  <img src="transparentGOT.png" style="max-width: 100%; height: auto;">
 </p>
 
+### Features
+- Track habits visually using photos from the camera
+- Daily streaks build motivation and habits
+- Monitized with in app ads & subscription to remove them and unlock features
+
+### Technologies Used
+- Swift, SwiftUI, UIKit, Google Admob, RevenueCat purchases, Apple subscriptions
+
 <p align="center">
-  <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
+  <a href="https://apps.apple.com/us/app/snaptrack-habit-tracker/id1659707919">
     <img src="appStoreLink.png" alt="Image" width="210" height="70" style="border-radius:20px;">
   </a>
 </p>
-
-### Summary / features
-- Add custom expenses to track and calculate time passed and average cost
-- Edit past expenses to change values
-
-### Technologies Used
-- Swift, SwiftUI, Core Data, Google Admob
 
 
 ***
@@ -53,27 +53,58 @@ Apps Developed
   <img src="transparentGOT.png" style="max-width: 100%; height: auto;">
 </p>
 
-<p align="center">
-  <a href="https://github.com/connertate/Game-of-Thrones-Houses">
-    <img src="appStoreLink.png" alt="Image" width="210" height="70" style="border-radius:20px;">
-  </a>
-</p>
-
-### Summary / features
-- Add custom expenses to track and calculate time passed and average cost
-- Edit past expenses to change values
+### Features
+- Explore info about all the houses in Game of Thrones 
+- Data is dynamically loaded from https://anapioficeandfire.com
+- Concurrently loads data in background 
 
 ### Technologies Used
-- Swift, SwiftUI, URLSession, JSON Decoder, Async / Await
+- Swift, SwiftUI, URLSession, JSON Decoder, Async / Await, REST API
+
+<p align="center">
+  <a href="https://github.com/connertate/Game-of-Thrones-Houses">
+    <img src="sourceCode.png" alt="Image" width="210" height="70" style="border-radius:20px;">
+  </a>
+</p>
 
 
 ***
 
 
-# Technical Skills
-I have extensive experience with the following technologies:
+## Daily Cost Calculator 
+
+<p align="center">
+  <img src="dailyCostTransparent.png" style="max-width: 100%; height: auto;">
+</p>
+
+### Features
+- Add custom expenses to track and calculate time passed and average cost
+- Edit past expenses to change values
+
+### Technologies Used
+- Swift, SwiftUI, Core Data, Google Admob
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/daily-cost-calculator/id6443849658">
+    <img src="appStoreLink.png" alt="Image" width="210" height="70" style="border-radius:20px;">
+  </a>
+</p>
+
+
+***
+
+<h1 align="center">
+Technical Skills
+</h1>
+
+## Languages 
 - Swift
 - Xcode
+
+## Software
+- Xcode
+- Photoshop / GIMP
+- DaVinci Resolve
 
 # Contact Information
   
