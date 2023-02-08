@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="testHeader.png" style="max-width: 100%; height: auto;">
+  <img src="headerImage.png" style="max-width: 100%; height: auto;">
 </p>
 
 
