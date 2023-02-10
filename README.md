@@ -98,6 +98,28 @@ Apps Developed
 ***
 
 
+## Art Slide Puzzle 
+
+<p align="center">
+  <img src="artPuzzle.png" style="max-width: 100%; height: auto;">
+</p>
+
+### Features
+- Swap around art piece tiles to complete the full work of art
+
+### Technologies 
+- Swift, SwiftUI
+
+<p align="center">
+  <a href="https://github.com/connertate/iOSArtPuzzle">
+    <img src="sourceCode.png" alt="Image" width="210" height="70" style="border-radius:20px;">
+  </a>
+</p>
+
+
+***
+
+
 # Contact Information
   
 📫 Email: connertate8@gmail.com
@@ -107,5 +129,5 @@ Apps Developed
 ✅ LeetCode: https://leetcode.com/connertate8/
 
 <p align="center">
-  <img src="emojiProfile.png" alt="Image" width="60" height="60">
+  <img src="emojiProfile.png" alt="Image" width="100" height="100">
 </p>
