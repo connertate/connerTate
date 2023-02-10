@@ -1,9 +1,12 @@
 <h1 align="center">
   Conner Tate
 </h1>
+<h2 align="center">
+  iOS Engineer
+</h2>
 
 <p align="center">
-  <img src="headerImage.png" style="max-width: 100%; height: auto;">
+  <img src="profilePic.png" alt="Image" width="250" height="250">
 </p>
 
 <h1 align="center">
@@ -20,6 +23,10 @@ Experience
 <h1 align="center">
 Apps Developed
 </h1>
+
+<p align="center">
+  All projects are designed and created independently
+</p>
 
 ## Snaptrack - Habit Tracker 
 
@@ -90,14 +97,6 @@ Apps Developed
 
 ***
 
-<h1 align="center">
-Technical Skills
-</h1>
-
-## Xcode
-......??
-
-## Other....
 
 # Contact Information
   
