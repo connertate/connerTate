@@ -105,3 +105,7 @@ Apps Developed
 🖇️ LinkedIn: https://www.linkedin.com/in/conner-t-193b1a131/
 
 ✅ LeetCode: https://leetcode.com/connertate8/
+
+<p align="center">
+  <img src="emojiProfile.png" alt="Image" width="60" height="60">
+</p>
