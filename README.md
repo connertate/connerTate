@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  <img src="profilePic.png" alt="Image" width="250" height="250">
+  <img src="headshot.png" alt="Image" width="250" height="250">
 </p>
 
 <h1 align="center">
