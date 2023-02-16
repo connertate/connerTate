@@ -13,11 +13,12 @@
 Experience
 </h1>
 
-📚 Bachelors in Computer Science from The University of North Carolina at Chapel Hill - 2020
 
-🎬 Working on set for TV shows in Charleston SC & Wilmington NC
+Bachelors in Computer Science from UNC Chapel Hill
 
-📱 9 apps on the App Store with 7k+ combined downloads
+Passionate about designing and building quality iOS apps
+
+Ready to bring technical skills, creativity, and drive to an iOS Engineer role
 
 
 <h1 align="center">
@@ -25,7 +26,7 @@ Apps Developed
 </h1>
 
 <p align="center">
-  All projects are designed and created independently
+  9 apps with 7k+ downloads on The App Store<br>All projects are designed and created independently
 </p>
 
 ## Snaptrack - Habit Tracker 
@@ -101,7 +102,7 @@ Apps Developed
 ## Binaural Audio Studio - Mac App 
 
 <p align="center">
-  <img src="binauralAudio.png" style="max-width: 100%; height: auto;">
+  <img src="binauralaudio.png" style="max-width: 100%; height: auto;">
 </p>
 
 ### Features
@@ -148,7 +149,7 @@ Apps Developed
 
 🖇️ LinkedIn: https://www.linkedin.com/in/conner-t-193b1a131/
 
-✅ LeetCode: https://leetcode.com/connertate8/
+🏁 LeetCode: https://leetcode.com/connertate8/
 
 <p align="center">
   <img src="emojiProfile.png" alt="Image" width="100" height="100">
