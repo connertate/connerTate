@@ -98,6 +98,28 @@ Apps Developed
 ***
 
 
+## Binaural Audio Studio - Mac App 
+
+<p align="center">
+  <img src="binauralAudio.png" style="max-width: 100%; height: auto;">
+</p>
+
+### Features
+- Play and control audio frequencies to create custom binaural beats
+
+### Technologies 
+- Swift, SwiftUI, AVFoundation
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/binaural-audio-studio/id6443721347?mt=12">
+    <img src="appStoreLink.png" alt="Image" width="210" height="70" style="border-radius:20px;">
+  </a>
+</p>
+
+
+***
+
+
 ## Art Slide Puzzle 
 
 <p align="center">
