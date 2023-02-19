@@ -1,25 +1,14 @@
-<h1 align="center">
-  Conner Tate
-</h1>
-<h2 align="center">
-  iOS Engineer
-</h2>
-
 <p align="center">
   <img src="headshot.png" alt="Image" width="250" height="250">
 </p>
 
 <h1 align="center">
-Experience
+  Conner Tate
 </h1>
 
-
-Bachelors in Computer Science from UNC Chapel Hill
-
-Passionate about designing and building quality iOS apps
-
-Ready to bring technical skills, creativity, and drive to an iOS Engineer role
-
+<h3 align="center">
+  iOS Engineer <br> Bachelor's in Computer Science - UNC Chapel Hill
+</32>
 
 <h1 align="center">
 Apps Developed
